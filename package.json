@@ -1,0 +1,9 @@
+{
+    "name": "com.unity.simplejson",
+    "displayName": "SimpleJSON",
+    "version": "2019.12.10",
+    "unity": "2019.3",
+    "description": "simple json parser",
+    "license": "MIT",
+    "dependencies": {}
+}
